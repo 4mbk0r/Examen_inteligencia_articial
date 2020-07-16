@@ -1,0 +1,38 @@
+@relation 'datasetdeprueaba-weka.filters.unsupervised.attribute.Remove-R1,4,7-weka.filters.unsupervised.attribute.ReplaceMissingValues'
+
+@attribute edad numeric
+@attribute Sexo {Masculino,Femenino}
+@attribute nota numeric
+@attribute Promedio numeric
+
+@data
+22.346154,Masculino,50,50
+24,Femenino,60,60
+25,Masculino,50,50
+24,Femenino,89,90
+20,Masculino,50,50
+30,Masculino,30,30
+22.346154,Masculino,40,40
+20,Masculino,60,60
+26,Masculino,54,60
+30,Femenino,53,60
+19,Femenino,90,90
+18,Femenino,85,80
+20,Masculino,65,67
+25,Femenino,76,80
+20,Femenino,77,70
+22.346154,Femenino,74,70
+24,Femenino,64,60
+26,Masculino,55,50
+19,Masculino,54,60
+20,Femenino,90,90
+19,Femenino,70,70
+18,Femenino,71,71
+20,Masculino,78,67
+25,Femenino,76,80
+20,Femenino,67,70
+22.346154,Femenino,54,60
+24,Femenino,54,60
+26,Masculino,65,60
+19,Masculino,54,60
+20,Femenino,90,90
